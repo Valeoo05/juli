@@ -1,6 +1,6 @@
 :root{
     --card-w: 360px;
-    --card-h: 800px;
+    --card-h: 400px;
     --gap: 1rem;
     --accent: #f6c94d;
     --bg: linear-gradient(180deg, #fffaf0, #fff8e6);
@@ -143,7 +143,7 @@
   }
   
   @media (max-width: 480px){
-    :root{ --card-w: 320px; --card-h: 220px; }
+    :root{ --card-w: 320px; --card-h: 400px; }
     .card__thumb{ width:56px; height:56px; }
     .card__title{ font-size:1.02rem; }
   }
