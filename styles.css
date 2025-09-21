@@ -1,6 +1,6 @@
 :root{
     --card-w: 360px;
-    --card-h: 400px;
+    --card-h: 800px;
     --gap: 1rem;
     --accent: #f6c94d;
     --bg: linear-gradient(180deg, #fffaf0, #fff8e6);
